@@ -1,6 +1,4 @@
-while true do
-    print('Hello World')
-end
+foo
 
 <!---
 zentusx/zentusx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
